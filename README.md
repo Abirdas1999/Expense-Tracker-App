@@ -224,7 +224,7 @@ Open `frontend/index.html` with **VS Code Live Server** or any local server.
 **Atif Zeya**
 Full Stack Developer | Java • Spring Boot | Open to opportunities
 
-[![GitHub](https://img.shields.io/badge/GitHub-AtifZeya84-181717?style=flat-square&logo=github)](https://github.com/AtifZeya84)
+
 
 ---
 
