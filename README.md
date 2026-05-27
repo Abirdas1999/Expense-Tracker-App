@@ -221,7 +221,7 @@ Open `frontend/index.html` with **VS Code Live Server** or any local server.
 
 ## 👨‍💻 Author
 
-**Atif Zeya**
+**Abir Das**
 Full Stack Developer | Java • Spring Boot | Open to opportunities
 
 
